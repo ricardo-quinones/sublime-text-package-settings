@@ -1,0 +1,56 @@
+{
+	"bold_folder_labels": true,
+	"caret_style": "phase",
+	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+	"detect_indentation": true,
+	"fade_fold_buttons": false,
+	"file_exclude_patterns":
+	[
+		"*.a",
+		"*.class",
+		"*.db",
+		"*.dll",
+		"*.dylib",
+		"*.exe",
+		"*.idb",
+		"*.lib",
+		"*.ncb",
+		"*.o",
+		"*.obj",
+		"*.pdb",
+		"*.psd",
+		"*.pyc",
+		"*.pyo",
+		"*.rdb",
+		"*.scssc",
+		"*.sdf",
+		"*.sublime-workspace",
+		"*.suo",
+		"*.woff",
+		".DS_Store",
+		"._*",
+		".gemtags",
+		".tags*",
+		".tags_sorted_by_file",
+		"tags*.so"
+	],
+	"folder_exclude_patterns":
+	[
+		".git",
+		".sass-cache",
+		"tmp",
+		"rcov"
+	],
+	"font_size": 13.0,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"line_padding_bottom": 1,
+	"line_padding_top": 1,
+	"tab_size": 2,
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true
+}

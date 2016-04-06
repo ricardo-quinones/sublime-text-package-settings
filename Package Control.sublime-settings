@@ -1,0 +1,32 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"Alignment",
+		"Autoprefixer",
+		"Better CoffeeScript",
+		"Borat Ipsum",
+		"BracketHighlighter",
+		"Case Conversion",
+		"CTags",
+		"DashDoc",
+		"Emmet",
+		"Git",
+		"GitGutter",
+		"Hipster Ipsum",
+		"Melbourne Ipsum",
+		"Monokai Extended",
+		"Package Control",
+		"Request",
+		"RSpec",
+		"RubyTest",
+		"Sass",
+		"SFTP",
+		"SideBarEnhancements",
+		"SyncedSideBar"
+	]
+}
